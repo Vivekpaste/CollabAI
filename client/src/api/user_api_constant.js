@@ -1,1 +1,0 @@
-export const FETCH_SINGLE_USER_INFO = ()=> "api/user/get-single-user";
